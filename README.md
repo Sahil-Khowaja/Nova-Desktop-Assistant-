@@ -1,5 +1,5 @@
 
-# Nova Desktop Assistant
+# Nova AI Powered Desktop Assistant
 
 Nova Desktop Assistant is a Python-based desktop application that acts as a virtual assistant, capable of performing various tasks such as answering questions, playing YouTube videos, fetching weather information, and more.
 
