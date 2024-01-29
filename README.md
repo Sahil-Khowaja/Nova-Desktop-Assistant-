@@ -1,6 +1,3 @@
-Certainly! Below is the updated README file with information about the OpenWeatherMap API and OpenAI API:
-
----
 
 # Nova Desktop Assistant
 
@@ -20,7 +17,7 @@ Nova Desktop Assistant is a Python-based desktop application that acts as a virt
 1. Clone the repository:
 
     ```
-    git clone [<repository_url>](https://github.com/Sahil-Khowaja/Nova-Desktop-Assistant-.git)
+    git clone https://github.com/Sahil-Khowaja/Nova-Desktop-Assistant-.git
     ```
 
 2. Navigate to the project directory:
